@@ -83,7 +83,7 @@ Focus on understanding the concept of Credit Risk. Key references:
 6. Return predictions.
 7. Deployment.
 
-## References
+## References:
 
 - [Basel II Capital Accord](https://www.bis.org/publ/bcbs107.htm)
 - [Weight of Evidence (WoE) and Information Value (IV) Explained](https://pypi.org/project/woe/)
